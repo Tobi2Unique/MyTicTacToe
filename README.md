@@ -1,2 +1,2 @@
 # MyTicTacToe
-My TicTacToe App
+A simple TicTacToe Game App
